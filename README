@@ -1,0 +1,3 @@
+UAVTalk Bridge Server
+
+There is a bug in QT that makes assigning a bind port to less than convienient. This python based bridge server resolves the auto assigned port on the GCS side and forwards all packets from the xbee to that port and vice-versa
